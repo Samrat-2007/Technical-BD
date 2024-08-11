@@ -35,7 +35,7 @@ This is a personal course website for Nazmul Hasan, an ethical hacker. The websi
 - **Social Media Links:** Update the social media links in the "social-media" section of the `index.html` file with your actual profiles.
 
 ## Contact
-For any questions or support, please contact Nazmul Hasan at [your email address].
+For any questions or support, please contact Nazmul Hasan at [samratalhayato@gmail.com].
 
 ## License
 This project is open-source and available for educational purposes. Feel free to customize and share it as needed.
