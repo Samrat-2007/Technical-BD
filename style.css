@@ -1,0 +1,62 @@
+.menu{
+    
+    
+}
+
+.menu ul{
+    margin: 5px;
+    list-style-type: none;
+}
+
+.menu ul li{
+    
+    display: inline-block;
+}
+
+.menu ul li a{
+    
+    align-content: center;
+    text-decoration: none;
+    padding: 8px 20px;
+    display: inline-block;
+    color: #fff;
+    background-color: green;
+    border-radius: 20px;
+    border-right: 1px solid #fff;
+}
+
+.menu ul li a:hover{
+    float: left;
+    background-color: aqua;
+}
+
+
+.menu2{
+    margin-top: 1in;
+    
+}
+
+.menu2 ul{
+    margin: 5px;
+    list-style-type: none;
+}
+
+.menu2 ul li{
+    display: inline-block;
+
+}
+
+.menu2 ul li a{
+    text-decoration: none;
+    padding: 8px 20px;
+    display: inline-block;
+    color: #fff;
+    background-color: orange;
+    border-right: 1px solid #fff;
+    border-radius: 20px;
+}
+
+.menu2 ul li a:hover{
+    float: left;
+    background-color: rgb(208, 0, 255);
+}
